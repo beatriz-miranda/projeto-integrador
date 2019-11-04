@@ -1,3 +1,3 @@
-# DFA
+# projeto-integrador
 
 Projeto Integrador Digital House!
