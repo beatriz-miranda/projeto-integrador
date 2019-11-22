@@ -1,6 +1,6 @@
 <?php 
 	// Titulo da página
-	$title = "Unframed";
+	$PAGE_TITLE = "Unframed";
 
 	// A FAZER: TROCAR INCLUDE POR REQUIRE QND FRONT FINALIZADO
 	include "assets/inc/head.php";
