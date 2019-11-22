@@ -1,6 +1,6 @@
-<!-- head.php -->
-
 <?php
+	// head.php
+
 	// Load das constantes do projeto
 	require_once "constantes.php";
 ?>

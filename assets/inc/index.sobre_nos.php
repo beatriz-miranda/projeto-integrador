@@ -1,3 +1,5 @@
-<!-- index.sobre_nos.php -->
+<?php
+	// index.sobre_nos.php
+?> 
 
 <p>SOBRE NÓS</p><br>

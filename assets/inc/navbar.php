@@ -1,3 +1,5 @@
-<!-- navbar.php -->
+<?php
+	// navbar.php
+?>
 
 <p>NAVBAR</p><br>

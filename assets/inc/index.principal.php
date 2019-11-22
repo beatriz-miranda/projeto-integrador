@@ -1,3 +1,5 @@
-<!-- index.principal.php -->
+<?php
+	// index.principal.php
+?>
 
 <p>PRINCIPAL</p><br>
