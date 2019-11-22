@@ -1,7 +1,12 @@
 # .gitignore
 
-# Ignore arquivos temporários de backup gerados pelo MySQL Workbench
+# Ignore arquivos temporários gerados pelo MySQL Workbench
 bd/*.bak
 
-# Ignore arquivos ".DS_Store" automaticamente gerados por macOS
-*.DS_Store
+# Ignore arquivos automaticamente gerados por macOS
+.DS_Store
+
+# Ignore arquivos automaticamente gerados por Windows
+[Tt]humbs.db
+[Dd]esktop.ini
+*.lnk
