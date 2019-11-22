@@ -1,10 +1,12 @@
-<?php 
-	// Titulo da página
+<!-- index.php -->
+
+<?php
+	// Título da landing page
 	$PAGE_TITLE = "Unframed";
 
-	// A FAZER: TROCAR INCLUDE POR REQUIRE QND FRONT FINALIZADO
-	include "assets/inc/head.php";
-	include "assets/inc/navbar.php";
-	include "assets/inc/index.principal.php";
-	include "assets/inc/index.sobre_nos.php";
-	include "assets/inc/footer.php";
+	// Fragmentos da página
+	require "assets/inc/head.php";
+	require "assets/inc/navbar.php";
+	require "assets/inc/index.principal.php";
+	require "assets/inc/index.sobre_nos.php";
+	require "assets/inc/footer.php";
