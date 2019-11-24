@@ -1,6 +1,6 @@
 /* style.css */
 
-/* PALHETA
+/* PALETA DE CORES (/extras/Paleta De Cores.png)
     Branco: #FFF
     Palha: #DFDDC7
     Laranja: #F58B54
@@ -8,34 +8,61 @@
     Marrom: #211717
 */
 
+/* RESET + TAGS ---> A FAZER */
+
+/* IDS */
+
 #bg-sobre-nos {
     background-color: #DFDDC7;
 }
+
+/* CLASSES */
+
 .btn-padrao {
     background-color: #211717;
     border-radius: 0;
     color: #DFDDC7;
     padding: 15px 40px;
     text-transform: uppercase;
+    width: 230px;
 }
+
+.btn-padrao:hover {
+    color: #F58B54;
+}
+
+.btn-padrao:focus {
+    box-shadow: none;
+}
+
 .cor-texto-padrao {
     color: #211717;
 }
 
-.form-padrao
-{
-    padding: 0 24%;
+@media screen and (min-width: 768px) {
+    .form-padrao
+    {
+        padding: 0 24%;
+    }
 }
 
 .input-padrao {
     background-color: #F58B54;
     width: 100%;
-    padding: 2% 4%;
+    padding: 5% 10%;
     margin: 0;
     border: 0;
     color: #211717;
     font-weight: bold;
     text-transform: capitalize;
+    outline: none;
+}
+
+@media screen and (min-width: 768px)
+{
+    .input-padrao {
+        padding: 2% 4%;
+    }
 }
 
 .input-padrao::placeholder {
