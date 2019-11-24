@@ -1,1 +1,44 @@
 /* style.css */
+
+/* PALHETA
+    Branco: #FFF
+    Palha: #DFDDC7
+    Laranja: #F58B54
+    Abóbora: #A34A28
+    Marrom: #211717
+*/
+
+#bg-sobre-nos {
+    background-color: #DFDDC7;
+}
+.btn-padrao {
+    background-color: #211717;
+    border-radius: 0;
+    color: #DFDDC7;
+    padding: 15px 40px;
+    text-transform: uppercase;
+}
+.cor-texto-padrao {
+    color: #211717;
+}
+
+.form-padrao
+{
+    padding: 0 24%;
+}
+
+.input-padrao {
+    background-color: #F58B54;
+    width: 100%;
+    padding: 2% 4%;
+    margin: 0;
+    border: 0;
+    color: #211717;
+    font-weight: bold;
+    text-transform: capitalize;
+}
+
+.input-padrao::placeholder {
+    color: #211717;
+    font-weight: bold;
+}
