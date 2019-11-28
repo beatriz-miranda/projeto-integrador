@@ -7,8 +7,13 @@
 	// Começa o processo de minificação de output HTML
 	start_minification();
 
-	// Título da landing page
-	$PAGE_TITLE = "Unframed";
+	// Idioma, título, e metadados + arquivos fonte extras da página
+	$PAGE_CONFIG =
+	[
+		"LANG" => "pt-br",
+		"TITLE" => "UNFRAMED",
+		"EXTRA_TAGS" => null
+	];
 
 	// Fragmentos da página
 	require "assets/inc/head.php";

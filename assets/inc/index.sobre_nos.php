@@ -14,7 +14,7 @@
             <div class="d-flex flex-column align-items-left my-5 mx-4">
                 <h1 class="m-0">Sobre <span class="d-md-block">a loja</span></h1>
                 <p class="text-justify my-4 my-md-5 cor-texto-padrao">Lorem ipsum dolor sit amet consectetur adipisicing elit. Error ut distinctio illo, saepe quas assumenda. Velit nam doloremque necessitatibus odit corporis minus dolores, saepe placeat voluptatibus temporibus quia sunt labore!</p>
-                <button type="button" class="align-self-center align-self-md-start btn btn-padrao">saiba mais<i class="fa fa-arrow-right ml-2"></i></button>
+                <button type="button" class="align-self-center align-self-md-start btn btn-padrao">saiba mais<i class="fa fa-arrow-right"></i></button>
             </div>
         </div>
 
@@ -29,7 +29,7 @@
                     <p class="my-4">Lorem ipsum dolor sit amet consectetur adipisicing elit. Error ut distinctio illo, saepe quas assumenda. Velit nam doloremque necessitatibus odit corporis minus dolores, saepe placeat voluptatibus temporibus quia sunt labore!</p>
                     <input class="input-padrao" type="email" name="email_participe" placeholder="email">
                 </div>
-                <button type="button" class="mt-2 mt-md-0 btn btn-padrao">inscreva-se<i class="fa fa-arrow-right ml-2"></i></button>
+                <button type="button" class="mt-2 mt-md-0 btn btn-padrao">inscreva-se<i class="fa fa-arrow-right"></i></button>
             </form>
         </div>
 
