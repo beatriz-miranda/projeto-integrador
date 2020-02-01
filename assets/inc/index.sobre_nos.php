@@ -7,7 +7,7 @@
     <div class="row">
 
         <div class="col-12 col-md-8 p-0">
-            <img class="img-fluid" src="http://localhost:8888/projeto-integrador/assets/img/teste.jpeg" alt="Sala com quadros">
+            <img class="img-fluid" src="http://localhost:8888/projeto-integrador/assets/img/foto-sobre_a_loja.jpg" alt="Sala com quadros">
         </div>
 
         <div class="col-12 col-md-4 p-1 p-md-5 d-flex align-items-center" id="bg-sobre-nos">

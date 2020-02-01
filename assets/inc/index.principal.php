@@ -52,10 +52,12 @@
             </div>
     </main>
 
-    <div class="row bg-laranja">
-        <div class="col-12 p-1 p-md-0">
-            <form class="d-flex flex-column align-items-center my-5 mx-4 form-padrao" method="POST" action="#">
-                <button type="button" class="mt-2 mt-md-0 btn btn-padrao">ver todos<i class="fa fa-arrow-right"></i></button>
-            </form>
-        </div>
+    <div class="container-fluid bg-laranja">
+        <div class="row">
+            <div class="col-12 p-0">
+                <form class="d-flex flex-column align-items-center my-5 mx-4 form-padrao" method="POST" action="#">
+                    <button type="button" class="mt-2 mt-md-0 btn btn-padrao">ver todos<i class="fa fa-arrow-right"></i></button>
+                </form>
+            </div>
+        </div>  
     </div>  
